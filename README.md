@@ -3,7 +3,7 @@ sass-playlist
 # SASS Playlisr - Log
 
 ### Day 0: August 27, 2017 
-Introdu
+Introduction to SAAS
 **Today's Progress**: 
 1. I installed SASS on my computer using [Prepros](https://prepros.io/downloads) A tool to compile sass files to css and visualize live reload changes
 2. I learned how to declare SASS variables and nest them.
