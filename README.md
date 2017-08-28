@@ -7,9 +7,10 @@ sass-playlist
 **Today's Progress**:   
 1. Today I learnt about mixins and how to import files.  
 2. There is an option in Prepros, that allows to autompile or not the .saas files. You must have only one file to compile, the rest should be imported in the last one.  
+3. Pseudo Classes and How to import a mixin (that's included in a mixin.scss file) -> @include [name_of_the_mixin]  
 
 **Thoughts**:     
-1. It was a lit bit complicated to see it like in the video. I just noticed that there are some differences between the files in the video and the git repostiory. I had to add a link to the reset.css file.  
+1. Surprisely the style worked fine, not like the night before.    
 
 **Link to work:**:     
 1. [Example](https://link)
@@ -21,6 +22,6 @@ Introduction to SAAS
 
 **Thoughts**:    
 1. It was a lit bit complicated to see it like in the video. I just noticed that there are some differences between the files in the video and the git repostiory. I had to add a link to the reset.css file.  
-  
+
 **Link to work**:     
 1. [Example](https://link)
