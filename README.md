@@ -2,7 +2,7 @@ sass-playlist
 
 # SASS Playlist - Log
 
-### Day 1: August 26, 2017    
+### Day 1: August 28, 2017    
 
 **Today's Progress**:   
 1. Today I learnt about mixins and how to import files.  
