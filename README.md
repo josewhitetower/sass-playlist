@@ -2,6 +2,16 @@ sass-playlist
 
 # SASS Playlist - Log
 
+### Day 2: August 29, 2017    
+
+**Today's Progress**:   
+1. Today I learnt about mathematical operators  
+
+**Thoughts**:     
+1. Just to adjust the width of elements?.    
+
+**Link to work:**:     
+1. [Example](https://link)
 ### Day 1: August 28, 2017    
 
 **Today's Progress**:   
