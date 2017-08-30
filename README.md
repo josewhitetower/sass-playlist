@@ -5,11 +5,13 @@ sass-playlist
 ### Day 3: August 30, 2017    
 
 **Today's Progress**:   
-1. Today I learnt how to create a grid using math operators and mixins.    
+1. Today I learnt how to create a grid using math operators and mixins.  
+2. Colour functions    
 
 **Thoughts**:     
 1. There's a math form, the operators need to be separated by space.  
-2. Remeber, you can pass parameters to the mixins   
+2. Remeber, you can pass parameters to the mixins.  
+3. [Here](http://sass-lang.com/documentation/Sass/Script/Functions.html) you can find the Functions reference   
 
 **Link to work:**:     
 1. [Example](https://link)  
