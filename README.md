@@ -6,12 +6,14 @@ sass-playlist
 
 **Today's Progress**:   
 1. Today I learnt how to create a grid using math operators and mixins.  
-2. Colour functions    
+2. Colour functions  
+3. The @Content Keyword  
 
 **Thoughts**:     
 1. There's a math form, the operators need to be separated by space.  
 2. Remeber, you can pass parameters to the mixins.  
-3. [Here](http://sass-lang.com/documentation/Sass/Script/Functions.html) you can find the Functions reference   
+3. [Here](http://sass-lang.com/documentation/Sass/Script/Functions.html) you can find the Functions reference  
+4. The @content keyword allows to a mixin that you can use everywhere, with params you can define it as you like and it will take that to the mixin that contains the @content keyword 
 
 **Link to work:**:     
 1. [Example](https://link)  
