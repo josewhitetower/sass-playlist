@@ -2,6 +2,17 @@ sass-playlist
 
 # SASS Playlist - Log
 
+### Day 3: August 30, 2017    
+
+**Today's Progress**:   
+1. Today I learnt how to create a grid using math operators and mixins.    
+
+**Thoughts**:     
+1. There's a math form, the operators need to be separated by space.  
+2. Remeber, you can pass parameters to the mixins   
+
+**Link to work:**:     
+1. [Example](https://link)  
 ### Day 2: August 29, 2017    
 
 **Today's Progress**:   
@@ -11,7 +22,7 @@ sass-playlist
 1. Just to adjust the width of elements?.    
 
 **Link to work:**:     
-1. [Example](https://link)
+1. [Example](https://link)  
 ### Day 1: August 28, 2017    
 
 **Today's Progress**:   
