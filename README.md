@@ -8,12 +8,14 @@ sass-playlist
 1. Today I learnt how to create a grid using math operators and mixins.  
 2. Colour functions  
 3. The @Content Keyword  
+4. If Statements
 
 **Thoughts**:     
 1. There's a math form, the operators need to be separated by space.  
 2. Remeber, you can pass parameters to the mixins.  
 3. [Here](http://sass-lang.com/documentation/Sass/Script/Functions.html) you can find the Functions reference  
-4. The @content keyword allows to a mixin that you can use everywhere, with params you can define it as you like and it will take that to the mixin that contains the @content keyword 
+4. The @content keyword allows to a mixin that you can use everywhere, with params you can define it as you like and it will take that to the mixin that contains the @content keyword  
+5. If you dont know how many params a function will have you can use ($arg...) as parameters, it will generate a list, and you can find the length of this list unsing the function length().
 
 **Link to work:**:     
 1. [Example](https://link)  
