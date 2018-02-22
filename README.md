@@ -1,6 +1,6 @@
 sass-playlist
 
-# SASS Playlist - Log
+# SASS Playlist - Log 
 
 ### Day 3: August 30, 2017    
 
